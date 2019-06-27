@@ -4,11 +4,7 @@ Day05 craps赌賭博遊戲
 
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 from random import randint
 
 x = randint(1,6)
