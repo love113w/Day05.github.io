@@ -3,7 +3,7 @@ Day05 craps赌賭博遊戲
 ### 2019.06.27 
 
 
-```markdown
+```
 
 from random import randint
 
